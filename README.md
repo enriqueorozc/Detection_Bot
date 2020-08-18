@@ -29,7 +29,7 @@ In the picture above, this is the enclosing I made for the system. Although ther
 
 ## Setting the Raspberry Pi Up
 
-### Creating directory and bot.py
+### Creating the directory and bot.py
 First I created a directory to store my bot in. 
 
 ```
