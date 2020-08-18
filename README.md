@@ -78,4 +78,4 @@ I used this schematic shown below, of course I'm sure theres multiple other ones
 Schematic above created by Michael from Coreelectronics and can be found [`here`](https://core-electronics.com.au/tutorials/ws2812-addressable-leds-raspberry-pi-quickstart-guide.html) full credit goes to him. 
 
 # Help
-If anyone is confused by anything or wants to ask me a question about the project please contact me at enrique-orozc@outlook.com. I will try my best and respond promptly.
+If anyone is confused by anything or wants to ask me a question about the project please contact me at enrique-orozc@outlook.com. I will try my best to help and respond promptly.
