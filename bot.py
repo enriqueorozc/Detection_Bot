@@ -14,7 +14,7 @@ from math import *
 from time import sleep
 
 
-pixels = neopixel.NeoPixel(board.D18, numofleds, brightness =0.8)
+pixels = neopixel.NeoPixel(board.D18, num_of_leds, brightness =0.8)
 
 client = discord.Client()
 
