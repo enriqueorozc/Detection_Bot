@@ -20,7 +20,7 @@ Confirmed working with [`discord.py`](https://discordpy.readthedocs.io/en/latest
 
 ![Device Working](LED_Strip.jpg)
 
-This is how the device looks when it's in action, in the picture above there were three of my friend online!
+This is how the device looks when it's in action, in the picture above there were three of my friends online, including me!
 
 
 ![Case](Case.jpg)
